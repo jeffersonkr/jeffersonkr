@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working with Python and Clojure.<br>👯 I believe in collaborative environments.<br>😄 I love exploring and learning new skills.<br>⚡ Fun fact I also love to hear songs during coding.<br>
+🔭 I’m currently working with Python and Clojure.<br>👯 I believe in collaborative environments.<br>😄 I love exploring and learning new skills.<br>
 
 
 ## 🌐 Socials:
